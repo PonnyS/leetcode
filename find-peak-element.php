@@ -25,6 +25,5 @@ class Solution {
     }
 }
 
-// pmt002_01
 $nums = [1,2,3,1];
 echo (new Solution())->findPeakElement($nums);
