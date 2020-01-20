@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * Class Solution
+ */
 class Solution {
 
     /**
