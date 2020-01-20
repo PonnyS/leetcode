@@ -2,6 +2,7 @@
 
 /**
  * Class Solution
+ * pmt001_02
  */
 class Solution {
 
